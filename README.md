@@ -22,8 +22,7 @@ Even in **extremely data-constrained scenarios**, where adaptation is performed 
 
 ## ✨ Features
 
-- ✅ **Label-free** reinforcement learning at inference time  
-- 🔄 Adapts to each **test sample individually**  
+- ✅ **Label-free** reinforcement learning at inference time   
 - 🧮 Uses **GRPO with frequency-based rewards**  
 - 📊 Controls output **entropy for better diversity**  
 - 📈 Demonstrates **state-of-the-art performance** on multiple benchmarks
