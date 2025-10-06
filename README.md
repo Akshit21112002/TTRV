@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ```
 
 # 📂 Datasets
-We provide the training data used for our experiments in: **TTRL_VL/verl/data**
+We provide the training data used for our experiments in: **TTRV/verl/data**
 To prepare your own dataset, simply replicate the same data formatting method described in the repository.
 
 
@@ -78,5 +78,5 @@ bash examples/ttrv/run.sh
 ```
 
 # 📜 Logs
-We provide experiment logs in: **TTRL_VL/verl/logs**
+We provide experiment logs in: **TTRV/verl/logs**
 These logs include detailed outputs and evaluation metrics across multiple runs and datasets.
