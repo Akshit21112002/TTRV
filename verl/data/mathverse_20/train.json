@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: In parallelogram M N P R, diagonals M P and R N intersect at Q. M N = 3 x - 4, N P = 2 y + 5, R P = 20, and M R = 17.9. Find m \\angle R M N.\nChoices:\nA:33\nB:38\nC:71\nD:109",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_266.png",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "1060"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: Emile is observing a wind turbine. The vertical distance between the ground and the tip of one of the turbine's blades, in meters, is modeled by $H(t)$ where $t$ is the time in seconds. What is the meaning of the highlighted segment?\nChoices:\nA:The turbine's center is 35 meters above the ground.\nB:The turbine completes a single cycle in 35 seconds.\nC:The length of the blade is 35 meters.\nD:The turbine has 35 blades.",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_548.png",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "1426"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: As shown in the figure, PA and PB are tangent to circle O at A and B respectively. If angle C = 65.0, then the degree of angle P is ()\nChoices:\nA:65\u00b0\nB:130\u00b0\nC:50\u00b0\nD:100\u00b0",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_23.png",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "88"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: In triangle A B C, AB = AC. \\angle C A B and \\angle A B C are both 2 x degrees. A B and B C are 3 and 4 y - 5 inches, respectively. Find x.\nChoices:\nA:20\nB:30\nC:40\nD:50",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_260.png",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1036"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: The graph shows the progress of two competitors in a cycling race.\n\nWho is traveling faster?\nChoices:\nA:Justin\nB:Oliver",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_603.png",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1565"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: Determine whether the quadratic function represents a one-to-one function.\nChoices:\nA.This is a one-to-one function\nB.This is not a one-to-one function",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_496.png",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1357"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: B C and E D are parallel. Find C D if A C = x - 3, B E = 20, A B = 16, and C D = x + 5.\nChoices:\nA:32\nB:35\nC:36\nD:40",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_206.png",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "821"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: What is the value of z?\nChoices:\nA.60\nB.70\nC.80\nD.90\nE.100\n",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_5/image_783.png",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1723"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: Find the true bearing of point B from point A.\nChoice:\nA. 090^\\circ T\nB. 180^\\circ T\nC. 049^\\circ T\nD. 041^\\circ T",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_339.png",
+    "answer": "090^\\circ T",
+    "source": "gpqa_diamond",
+    "id": "1305"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: Find y in the figure.\nChoices:\nA:5\nB:6\nC:7\nD:8",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_212.png",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "846"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: Consider the graph shown.\n\nWhich of the following relationships could be represented by the given graph?\nChoices:\nA:The number of people $(y)$ attending a parent/teacher conference when there are $x$ parents, each bringing 2 children.\nB:The number of layers $(y)$ resulting from a rectangular piece of paper being folded in half $x$ times.\nC:The number of handshakes $(y)$ made by $x$ people in a room if every person shakes hands with every other person.",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_5/image_618.png",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1607"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: As shown in the figure, Xiaodong uses a bamboo pole with a length of 3.2 as a measuring tool to measure the height of the school flagpole, and moves the bamboo pole so that the shadow on the top of the pole and the flag pole falls on the same point on the ground. At this time, the distance between the bamboo pole and this point is 8.0, and the distance from the flag pole is 22.0, then the height of the flag pole is ()\nChoices:\nA:12m\nB:10m\nC:8m\nD:7m",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_148.png",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "590"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: NQ is the angular bisector of angle MNP. Find Q M.\nChoices:\nA:4\nB:8\nC:12\nD:16",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_5/image_322.png",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "1287"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: As shown in the figure, angle 1 = 50.0, then the degree of angle 2 is ()\nChoices:\nA:50\u00b0\nB:120\u00b0\nC:130\u00b0\nD:150\u00b0",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_6.png",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "22"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: In the figure above. What is the value of x?\nChoices:\nA.15\nB.20\nC.25\nD.40\nE.65\n",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_5/image_773.png",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "1691"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: As shown in the figure, AB = AC, angle A = 36.0, the perpendicular bisector of AB intersects AC at D, then the degree of angle BDC is ()\nChoices:\nA:72\u00b0\nB:36\u00b0\nC:60\u00b0\nD:82\u00b0",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_10.png",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "37"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: In the figure above, lines l and m are not parallel. Which of the following cannot be the value of x?\nChoices:\nA.89\nB.90\nC.91\nD.92\nE.93\n",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_5/image_772.png",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1687"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: As shown in the figure, the diameter CD of circle O crosses the midpoint G of chord EF, then angle EOD is equal to ()\nChoices:\nA:10\u00b0\nB:20\u00b0\nC:40\u00b0\nD:80\u00b0",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_5/image_56.png",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "223"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: In the figure above, a shaded polygon which has equal sides and equal angles is partially covered with a sheet of blank paper. If x + y = 80, how many sides does the polygon have?\nChoices:\nA.Ten\nB.Nine\nC.Eight\nD.Seven\nE.Six\n",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_5/image_785.png",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1731"
+  },
+  {
+    "prompt": "<image> \nPlease directly answer the question and provide the correct option letter, e.g., A, B, C, D.\nDo not include any explanation or extra text.\nQuestion: As shown in the figure, angle 1 = 50.0, then the degree of angle 2 is ()\nChoices:\nA:150\u00b0\nB:130\u00b0\nC:100\u00b0\nD:50\u00b0",
+    "image_path": "/home/anirban/kanksha1/mathverse/images/images_version_1-4/image_24.png",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "94"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. cello, violoncello\nB. komondor\nC. chambered nautilus, pearly nautilus, nautilus\nD. dial telephone, dial phone",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/528/01d820b9d58470508ad0ead148be5d629ec0dff8.jpeg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "0"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. hognose snake, puff adder, sand viper\nB. llama\nC. hen\nD. warthog",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/8/3b835361aec12b451774b832585f313b67d23c98.jpeg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "1"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. beer bottle\nB. Eskimo dog, husky\nC. white wolf, Arctic wolf, Canis lupus tundrarum\nD. bell pepper",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/440/801b036d7b49d2d612c6b811abfefd4000d9941c.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "2"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. miniature schnauzer\nB. combination lock\nC. mink\nD. power drill",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/196/b3c0b4e3e1d9fbe038a3f7a99a40adb30a41290c.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "3"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. diamondback, diamondback rattlesnake, Crotalus adamanteus\nB. television, television system\nC. lacewing, lacewing fly\nD. Greater Swiss Mountain dog",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/318/37238bcf0f32456190776b7471ef4b35fac1ade8.jpeg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "4"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. Saint Bernard, St Bernard\nB. menu\nC. prayer rug, prayer mat\nD. Old English sheepdog, bobtail",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/741/31fdc4e5b756b2c458aa9c4c8b8993ed54e27aac.jpeg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "5"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. joystick\nB. puck, hockey puck\nC. Egyptian cat\nD. boa constrictor, Constrictor constrictor",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/613/fc79f11ced1e5c2d3d4ddebecb135c2ef404679c.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "6"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk\nB. Dutch oven\nC. limousine, limo\nD. marmot",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/544/0509ad99765c2e9ed000022260dc588362f391d9.jpeg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "7"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. moving van\nB. capuchin, ringtail, Cebus capucinus\nC. tiger cat\nD. bath towel",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/675/00acdd6a95fb6b15d3c9eb38286f6064bb74e851.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "8"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. marmoset\nB. wombat\nC. bullfrog, Rana catesbeiana\nD. daisy",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/106/ce40d09b8a25988a3a65efd25d27109e853e0450.jpeg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "9"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. ski\nB. bath towel\nC. lionfish\nD. oboe, hautboy, hautbois",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/795/7e8e17005a87fe242c82d0b88b1e5162f9531e09.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "10"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. Saint Bernard, St Bernard\nB. ballpoint, ballpoint pen, ballpen, Biro\nC. fire screen, fireguard\nD. odometer, hodometer, mileometer, milometer",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/685/32d67c45da0a4c774d4bfb76f2a1e9cec81d85db.jpeg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "11"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. basset, basset hound\nB. bulletproof vest\nC. screen, CRT screen\nD. loupe, jeweler's loupe",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/782/a17d8618cd2dc62c3904a369cc05f1117abd9dc0.jpeg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "12"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. velvet\nB. gas pump, gasoline pump, petrol pump, island dispenser\nC. cardoon\nD. academic gown, academic robe, judge's robe",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/571/ac40ca48d7b974fe2182a57d2661e60d51034286.jpeg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "13"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. sleeping bag\nB. toy poodle\nC. buckeye, horse chestnut, conker\nD. gibbon, Hylobates lar",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/368/c7ac9ffecf053c6a476c72afab8a2bdc133242c6.jpeg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "14"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. hamper\nB. standard poodle\nC. apiary, bee house\nD. king snake, kingsnake",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/56/99172a3a1c05b37c02117ad50e684ec9feb86e7e.jpeg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "15"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. German short-haired pointer\nB. broccoli\nC. velvet\nD. recreational vehicle, RV, R.V.",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/937/6e9a41575fab3d411eef0269594af65731992dee.jpeg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "16"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. macaw\nB. great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias\nC. necklace\nD. wallet, billfold, notecase, pocketbook",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/2/f82eb5914602bb0bc538fc417ca3757949743eec.jpeg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "17"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. volcano\nB. bison\nC. reel\nD. eggnog",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/347/1dc11c28a8fdffc58a7bfcf9ded4da49b08cdf29.jpeg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "18"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. lens cap, lens cover\nB. Crock Pot\nC. eft\nD. lacewing, lacewing fly",
+    "image_path": "/home/anirban/kanksha1/imagenet_v2/imagenetv2-matched-frequency-format-val/27/d5023633989900e63f973cfdc034abbf11764fdc.jpeg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "19"
+  }
+]

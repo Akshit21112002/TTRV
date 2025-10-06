@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. pleated\nB. flecked\nC. gauzy\nD. freckled",
+    "image_path": "/home/anirban/kanksha1/dtd/images/flecked/flecked_0099.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "120"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. gauzy\nB. honeycombed\nC. matted\nD. porous",
+    "image_path": "/home/anirban/kanksha1/dtd/images/gauzy/gauzy_0199.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "155"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. crosshatched\nB. chequered\nC. matted\nD. marbled",
+    "image_path": "/home/anirban/kanksha1/dtd/images/chequered/chequered_0201.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "52"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. lacelike\nB. sprinkled\nC. matted\nD. crosshatched",
+    "image_path": "/home/anirban/kanksha1/dtd/images/sprinkled/sprinkled_0132.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "369"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. fibrous\nB. braided\nC. grooved\nD. knitted",
+    "image_path": "/home/anirban/kanksha1/dtd/images/knitted/knitted_0184.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "202"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. grid\nB. matted\nC. cobwebbed\nD. interlaced",
+    "image_path": "/home/anirban/kanksha1/dtd/images/matted/matted_0157.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "245"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. cracked\nB. potholed\nC. frilly\nD. wrinkled",
+    "image_path": "/home/anirban/kanksha1/dtd/images/cracked/cracked_0114.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "79"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. bumpy\nB. woven\nC. perforated\nD. cracked",
+    "image_path": "/home/anirban/kanksha1/dtd/images/bumpy/bumpy_0132.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "46"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. crystalline\nB. bubbly\nC. bumpy\nD. stratified",
+    "image_path": "/home/anirban/kanksha1/dtd/images/bubbly/bubbly_0160.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "34"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. cracked\nB. frilly\nC. blotchy\nD. meshed",
+    "image_path": "/home/anirban/kanksha1/dtd/images/blotchy/blotchy_0073.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "10"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. frilly\nB. porous\nC. knitted\nD. stained",
+    "image_path": "/home/anirban/kanksha1/dtd/images/knitted/knitted_0156.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "205"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. swirly\nB. crosshatched\nC. crystalline\nD. pitted",
+    "image_path": "/home/anirban/kanksha1/dtd/images/pitted/pitted_0127.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "281"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. smeared\nB. pleated\nC. stratified\nD. zigzagged",
+    "image_path": "/home/anirban/kanksha1/dtd/images/zigzagged/zigzagged_0114.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "469"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. bubbly\nB. marbled\nC. frilly\nD. stratified",
+    "image_path": "/home/anirban/kanksha1/dtd/images/frilly/frilly_0031.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "148"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. swirly\nB. stratified\nC. studded\nD. matted",
+    "image_path": "/home/anirban/kanksha1/dtd/images/studded/studded_0027.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "409"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. wrinkled\nB. matted\nC. lacelike\nD. striped",
+    "image_path": "/home/anirban/kanksha1/dtd/images/striped/striped_0028.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "391"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. bubbly\nB. grid\nC. pitted\nD. spiralled",
+    "image_path": "/home/anirban/kanksha1/dtd/images/bubbly/bubbly_0110.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "30"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. fibrous\nB. bumpy\nC. waffled\nD. pitted",
+    "image_path": "/home/anirban/kanksha1/dtd/images/fibrous/fibrous_0171.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "113"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. grooved\nB. scaly\nC. paisley\nD. crosshatched",
+    "image_path": "/home/anirban/kanksha1/dtd/images/paisley/paisley_0006.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "266"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what texture it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. flecked\nB. bumpy\nC. perforated\nD. chequered",
+    "image_path": "/home/anirban/kanksha1/dtd/images/perforated/perforated_0013.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "274"
+  }
+]

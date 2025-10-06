@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. storage tank\nB. golf course\nC. rectangular farmland\nD. commercial area",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/golf_course/golf_course_623.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "156"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. chaparral\nB. freeway\nC. airport\nD. parking lot",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/chaparral/chaparral_616.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "60"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. industrial area\nB. sea ice\nC. circular farmland\nD. golf course",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/industrial_area/industrial_area_686.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "187"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. mountain\nB. tennis court\nC. parking lot\nD. airport",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/tennis_court/tennis_court_662.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "417"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. intersection\nB. basketball court\nC. railway\nD. tennis court",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/basketball_court/basketball_court_629.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "34"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. sea ice\nB. harbor\nC. beach\nD. wetland",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/wetland/wetland_682.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "441"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. intersection\nB. railway station\nC. roundabout\nD. mobile home park",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/roundabout/roundabout_673.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "330"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. cloud\nB. runway\nC. bridge\nD. circular farmland",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/runway/runway_621.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "344"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. medium residential\nB. sea ice\nC. meadow\nD. intersection",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/intersection/intersection_617.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "198"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. church\nB. harbor\nC. airplane\nD. tennis court",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/tennis_court/tennis_court_620.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "415"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. airplane\nB. desert\nC. rectangular farmland\nD. dense residential",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/airplane/airplane_632.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "6"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. airport\nB. freeway\nC. ship\nD. river",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/ship/ship_699.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "361"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. ground track field\nB. overpass\nC. ship\nD. palace",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/overpass/overpass_630.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "266"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. intersection\nB. church\nC. stadium\nD. cloud",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/stadium/stadium_621.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "393"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. intersection\nB. railway station\nC. mountain\nD. airport",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/mountain/mountain_639.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "251"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. terrace\nB. church\nC. mobile home park\nD. medium residential",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/medium_residential/medium_residential_622.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "237"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. circular farmland\nB. mountain\nC. ship\nD. church",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/circular_farmland/circular_farmland_665.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "80"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. ship\nB. mountain\nC. overpass\nD. commercial area",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/mountain/mountain_648.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "259"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. parking lot\nB. dense residential\nC. tennis court\nD. sea ice",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/parking_lot/parking_lot_633.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "281"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. forest\nB. lake\nC. airplane\nD. medium residential",
+    "image_path": "/home/anirban/kanksha1/resi45/test/test/lake/lake_641.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "216"
+  }
+]

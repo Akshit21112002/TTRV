@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "<image> \nWhich describes label A in the above diagram?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. plants\nB. animals\nC. air\nD. none",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_1360.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1211"
+  },
+  {
+    "prompt": "<image> \nWhat is the line that divides the two different plates?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. ground\nB. fault line\nC. dirt\nD. earthquake",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_2/image_210.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1534"
+  },
+  {
+    "prompt": "<image> \nWhat represents the worker in the figure?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. none of the above\nB. B\nC. A\nD. C",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_540.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "501"
+  },
+  {
+    "prompt": "<image> \nFrom the above food web diagram, rabbit represents\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. producer\nB. consumer\nC. secondary consumers\nD. decomposer",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_2/image_770.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "2026"
+  },
+  {
+    "prompt": "<image> \nIf there were no more caterpillars, which population would suffer?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. Chameleons\nB. Neither population would suffer\nC. Leaves\nD. NA",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_2/image_1325.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "2503"
+  },
+  {
+    "prompt": "<image> \nWhich is the point of the earth's surface directly above the focus of an earthquake?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. none of the above\nB. focus\nC. both of the above\nD. epicenter",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_871.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "792"
+  },
+  {
+    "prompt": "<image> \nWhat is the name of the stage at letter B?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. crescent moon\nB. new moon\nC. full moon\nD. waxing gibbous",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_477.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "440"
+  },
+  {
+    "prompt": "<image> \nIn the diagram of the food web shown, what does the conoesucidae get its energy from?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. hydrobiosis\nB. detritus\nC. algae\nD. coloburiscus",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_364.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "337"
+  },
+  {
+    "prompt": "<image> \nWHICH DESCRIBE ABOUT NORTH POLE?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. Earth's geomagnetic south pole.\nB. GEOGRAPHY QUESTION\nC. The Geographic North Pole or Terrestrial North Pole; the northernmost point on Earth, of latitude 90\u00b0.\nD. MAGNET",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_146.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "124"
+  },
+  {
+    "prompt": "<image> \nwhich part absorbs water and minerals?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. root\nB. stem\nC. leaf\nD. flower",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_2/image_792.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "2048"
+  },
+  {
+    "prompt": "<image> \nmargine leaf is deifined by\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. m\nB. f\nC. n\nD. ba",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_2/image_119.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "1471"
+  },
+  {
+    "prompt": "<image> \nWhich of the following are the predators of mayflies?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. leaves\nB. humans\nC. trout\nD. NA",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_333.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "306"
+  },
+  {
+    "prompt": "<image> \nIn this food web, what number of organisms consume mice?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. 3\nB. 6\nC. 9\nD. 4",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_1286.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "1145"
+  },
+  {
+    "prompt": "<image> \nWhich of the following organisms shown in the diagram are secondary consumer?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. Plants\nB. Algae\nC. Lizard\nD. None of above",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_2/image_544.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "1835"
+  },
+  {
+    "prompt": "<image> \nWhich stage shows new moon?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. F\nB. H\nC. B\nD. G",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_2/image_46.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1415"
+  },
+  {
+    "prompt": "<image> \nWhat object is shown in the diagram above?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. Earths Crust\nB. Tree roots\nC. Ocean Floor\nD. None of the above",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_1015.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "900"
+  },
+  {
+    "prompt": "<image> \nWhich layer does D represent?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. R Horizon\nB. A Horizon\nC. B Horizon\nD. C Horizon",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_552.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "513"
+  },
+  {
+    "prompt": "<image> \nHow many stages are shown in the diagram?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. 3\nB. 2\nC. 7\nD. 4",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_1488.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "1327"
+  },
+  {
+    "prompt": "<image> \nWhat is a producer?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. shrew\nB. grass\nC. grasshopper\nD. sun",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_1255.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1114"
+  },
+  {
+    "prompt": "<image> \nBase your answers on the food chain below and on your knowledge of science. Which among the below is a producer?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\n\nOptions:\nA. Ant\nB. Poison dart\nC. Lizards\nD. Plants",
+    "image_path": "/home/anirban/kanksha1/ai2d/images_1/image_170.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "148"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. mobile phone\nB. collie\nC. tennis ball\nD. orangutan",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02992529/cartoon_2.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "0"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. tennis ball\nB. collie\nC. orangutan\nD. mobile phone",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02992529/graffiti_2.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "1"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. collie\nB. mobile phone\nC. tennis ball\nD. orangutan",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02992529/sketch_19.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "2"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. mobile phone\nB. collie\nC. orangutan\nD. tennis ball",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02992529/cartoon_1.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "3"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. tennis ball\nB. collie\nC. orangutan\nD. mobile phone",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02992529/painting_0.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "4"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. tennis ball\nB. orangutan\nC. collie\nD. mobile phone",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n04409515/videogame_7.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "5"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. collie\nB. mobile phone\nC. orangutan\nD. tennis ball",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n04409515/videogame_1.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "6"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. tennis ball\nB. collie\nC. mobile phone\nD. orangutan",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n04409515/videogame_6.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "7"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. collie\nB. tennis ball\nC. mobile phone\nD. orangutan",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n04409515/cartoon_10.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "8"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. orangutan\nB. tennis ball\nC. collie\nD. mobile phone",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n04409515/videogame_14.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "9"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. tennis ball\nB. mobile phone\nC. orangutan\nD. collie",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02106030/cartoon_5.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "10"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. collie\nB. orangutan\nC. tennis ball\nD. mobile phone",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02106030/painting_15.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "11"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. tennis ball\nB. mobile phone\nC. collie\nD. orangutan",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02106030/sketch_12.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "12"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. collie\nB. tennis ball\nC. mobile phone\nD. orangutan",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02106030/painting_7.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "13"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. tennis ball\nB. mobile phone\nC. orangutan\nD. collie",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02106030/art_7.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "14"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. orangutan\nB. collie\nC. tennis ball\nD. mobile phone",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02480495/painting_31.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "15"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. mobile phone\nB. tennis ball\nC. orangutan\nD. collie",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02480495/tattoo_4.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "16"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. tennis ball\nB. orangutan\nC. collie\nD. mobile phone",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02480495/art_13.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "17"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. mobile phone\nB. tennis ball\nC. collie\nD. orangutan",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02480495/sculpture_3.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "18"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. collie\nB. mobile phone\nC. tennis ball\nD. orangutan",
+    "image_path": "/home/anirban/kanksha1/imagenet_r/n02480495/graffiti_0.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "19"
+  }
+]

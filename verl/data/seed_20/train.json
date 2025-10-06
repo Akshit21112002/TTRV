@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "<image> \nHow many children are sitting on the couch?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. 2\nB. 1\nC. 0\nD. 3",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/2312557_1965057144.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "1758"
+  },
+  {
+    "prompt": "<image> \nWhat type of flooring material is the woman performing yoga on in the image?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Tile\nB. Wood\nC. Concrete\nD. Marble",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/74422_19368633.jpeg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "2263"
+  },
+  {
+    "prompt": "<image> \nWhat is the main color of the dress worn by the woman with the density value of [0.6536, 0.5600, 0.7431, 0.7743]?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Red\nB. None of the above\nC. Brown\nD. Tan",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/1272685_3640017978.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "790"
+  },
+  {
+    "prompt": "<image> \nWhere is the vase with flowers located in the bathroom?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. On the sink\nB. On the toilet seat\nC. On the floor next to the bathtub\nD. On the bathtub rim",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/3158771_2563812769.jpeg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "2979"
+  },
+  {
+    "prompt": "<image> \nWhat type of area is depicted in the image?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. A marketplace\nB. A park\nC. A residential area\nD. A historical site",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/487202_3414332218.jpeg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "3587"
+  },
+  {
+    "prompt": "<image> \nWhat is the primary color of the graduate's cap?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Blue\nB. Red\nC. Green\nD. Black",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/72837_2472474119.jpeg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1152"
+  },
+  {
+    "prompt": "<image> \nBased on the information provided, why might the room feel cozy?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. The presence of a fireplace.\nB. The room's high ceiling.\nC. The fact that it's a log cabin.\nD. Various light sources detected by the AI.",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/1306252_2176675322.jpeg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "681"
+  },
+  {
+    "prompt": "<image> \nWhat type of vegetation is visible in the image?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Trees only\nB. A mix of trees and bushes\nC. Bushes only\nD. Grass",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/152766_1135814113.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "533"
+  },
+  {
+    "prompt": "<image> \nWhat is the main fruit featured in the drink?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Orange\nB. Strawberry\nC. Lemon\nD. Apple",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/2110088_2635922895.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "170"
+  },
+  {
+    "prompt": "<image> \nHow many people are in the image?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. None\nB. Two\nC. One\nD. Three",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/515998_1713820972.jpeg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "3026"
+  },
+  {
+    "prompt": "<image> \nWhere is the text \"Los Angeles\" located in the image?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Inside a building\nB. On top of a building\nC. On the sidewalk\nD. There is no text in the image",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/313212_4053073432.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "2138"
+  },
+  {
+    "prompt": "<image> \nWhat color is the flower closest to the fence?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Yellow\nB. Purple\nC. Blue\nD. Pink",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/45819_3905646076.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "470"
+  },
+  {
+    "prompt": "<image> \nWhat color is the helmet in the image?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Black\nB. White\nC. Red\nD. Orange",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/376826_1097347422.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "1651"
+  },
+  {
+    "prompt": "<image> \nHow many chairs are in the room?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Two\nB. One\nC. Three\nD. Four",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/429176_2404732939.jpeg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "2654"
+  },
+  {
+    "prompt": "<image> \nWhich object is located at the top-center of the image?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Skull\nB. Text\nC. Keyboard\nD. Piano",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/2928413_3340408690.jpeg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "2061"
+  },
+  {
+    "prompt": "<image> \nWhat is the overall theme of this image?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Nature\nB. Nightlife\nC. Architecture\nD. Fashion",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/1812487_3257352173.jpeg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "1293"
+  },
+  {
+    "prompt": "<image> \nHow many objects are in the image?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. 1\nB. 2\nC. 3\nD. 4",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/2155132_4008709774.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "801"
+  },
+  {
+    "prompt": "<image> \nWhat facial feature appears to be larger than average?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Nose\nB. Eyes\nC. Mouth\nD. Ears",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/8362_2563544936.jpeg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "1970"
+  },
+  {
+    "prompt": "<image> \nWhat is the shape of the vase with the white flower?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Round\nB. Square\nC. Short\nD. Tall",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/1809794_528456643.jpeg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "1589"
+  },
+  {
+    "prompt": "<image> \nWhat is the color of the man's hat in the image?\nChoose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text.\nOptions:\nA. Black\nB. Tan\nC. White\nD. Beige",
+    "image_path": "/home/anirban/kanksha1/seed/SEED-Bench-image/267947_2694578520.jpeg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "211"
+  }
+]

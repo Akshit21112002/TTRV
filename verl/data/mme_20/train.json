@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "<image> \n Is this movie directed by peter jackson? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. No \nB. Yes.",
+    "image_path": "/home/anirban/kanksha1/MME/images/posters/tt0118655.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 2163
+  },
+  {
+    "prompt": "<image> \n Is there a baseball bat in this image? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. No \nB. Yes.",
+    "image_path": "/home/anirban/kanksha1/MME/images/existence/000000006471.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 2042
+  },
+  {
+    "prompt": "<image> \n Is this photo taken in a place of home office? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. No \nB. Yes.",
+    "image_path": "/home/anirban/kanksha1/MME/images/scene/Places365_val_00000192.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 1711
+  },
+  {
+    "prompt": "<image> \n Does this image describe a place of hardware store? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. Yes \nB. No.",
+    "image_path": "/home/anirban/kanksha1/MME/images/scene/Places365_val_00000112.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 1763
+  },
+  {
+    "prompt": "<image> \n Is there a car in this image? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. Yes \nB. No.",
+    "image_path": "/home/anirban/kanksha1/MME/images/existence/000000523241.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 2070
+  },
+  {
+    "prompt": "<image> \n Is the actor inside the red bounding box called Scarlett Johansson? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. Yes \nB. No.",
+    "image_path": "/home/anirban/kanksha1/MME/images/celebrity/tt0119314_shot_0572_img_0.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 750
+  },
+  {
+    "prompt": "<image> \n Is the sea in front of people in the image? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. Yes \nB. No.",
+    "image_path": "/home/anirban/kanksha1/MME/images/position/000000007281.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 1169
+  },
+  {
+    "prompt": "<image> \n Is there a total of three cakes in this image? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. Yes \nB. No.",
+    "image_path": "/home/anirban/kanksha1/MME/images/count/000000276434.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 886
+  },
+  {
+    "prompt": "<image> \n Is the person inside the red bounding box named Paulo Benedeti? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. Yes \nB. No.",
+    "image_path": "/home/anirban/kanksha1/MME/images/celebrity/tt0087469_shot_0049_img_2.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 601
+  },
+  {
+    "prompt": "<image> \n Is there a blue and orange fire hydrant in the image? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. No \nB. Yes.",
+    "image_path": "/home/anirban/kanksha1/MME/images/color/000000338560.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 921
+  },
+  {
+    "prompt": "<image> \n Is it appropriate to translate the Chinese in the image into English 'a easy work' in the picture? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. No \nB. Yes.",
+    "image_path": "/home/anirban/kanksha1/MME/images/text_translation/0011.png",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 851
+  },
+  {
+    "prompt": "<image> \n Does this image describe a place of snowfield? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. No \nB. Yes.",
+    "image_path": "/home/anirban/kanksha1/MME/images/scene/Places365_val_00000098.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 1875
+  },
+  {
+    "prompt": "<image> \n Is the person inside the red bounding box called Eliot Paton? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. Yes \nB. No.",
+    "image_path": "/home/anirban/kanksha1/MME/images/celebrity/tt0119528_shot_0171_img_0.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 643
+  },
+  {
+    "prompt": "<image> \n Are there seven people appear in this image? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. No \nB. Yes.",
+    "image_path": "/home/anirban/kanksha1/MME/images/count/000000450303.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 911
+  },
+  {
+    "prompt": "<image> \n Is this movie originated from the country or region of usa? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. No \nB. Yes.",
+    "image_path": "/home/anirban/kanksha1/MME/images/posters/tt3700804.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 2298
+  },
+  {
+    "prompt": "<image> \n Is this movie originated from the country or region of usa? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. Yes \nB. No.",
+    "image_path": "/home/anirban/kanksha1/MME/images/posters/tt1284575.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 2254
+  },
+  {
+    "prompt": "<image> \n Is this picture captured in a place of pizzeria? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. No \nB. Yes.",
+    "image_path": "/home/anirban/kanksha1/MME/images/scene/Places365_val_00000190.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 1654
+  },
+  {
+    "prompt": "<image> \n Is the refrigerator on the right side of the picture Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. No \nB. Yes.",
+    "image_path": "/home/anirban/kanksha1/MME/images/position/000000014038.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 1133
+  },
+  {
+    "prompt": "<image> \n Is this movie directed by lorenzo vigas? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. Yes \nB. No.",
+    "image_path": "/home/anirban/kanksha1/MME/images/posters/tt4721400.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 2272
+  },
+  {
+    "prompt": "<image> \n Is this movie titled moonstruck (1987)? Please answer with yes or no. Please respond with only the corresponding option letter (A or B). Do not include any explanation or extra text. \n Options:\nA. Yes \nB. No.",
+    "image_path": "/home/anirban/kanksha1/MME/images/posters/tt0093565.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 2368
+  }
+]

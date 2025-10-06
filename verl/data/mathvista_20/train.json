@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: \u5982\u56fe\uff0e\u70b9O\u662f\u6b63\u4e94\u8fb9\u5f62ABCDE\u7684\u4e2d\u5fc3\uff0c\u2299O\u662f\u6b63\u4e94\u8fb9\u5f62\u7684\u5916\u63a5\u5706\uff0c\u2220ADE\u7684\u5ea6\u6570\u4e3a\uff08\uff09\nChoices:\n(A) 30\u00b0\n(B) 32\u00b0\n(C) 36\u00b0\n(D) 40\u00b0",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/955.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "520"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: If the number of grasshoppers decreases, what will the population of spiders most likely do?\nChoices:\n(A) remain the same\n(B) increase\n(C) decrease\n(D) NA",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/418.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "231"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: In the figure above, triangle ABC is inscribed in the circle with center O and diameter AC. If AB = AO, what is the degree measure of angle ABO?\nChoices:\n(A) 15*\\degree\n(B) 30*\\degree\n(C) 45*\\degree\n(D) 60*\\degree\n(E) 90*\\degree",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/482.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "262"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: Is Bubblegum the roughest?\nChoices:\n(A) yes\n(B) no",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/571.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "313"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: Is this function invertible?\nChoices:\n(A) Yes\n(B) No",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/686.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "371"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: Look at the table. Then answer the question. At a price of $330, is there a shortage or a surplus?'\nChoices:\n(A) shortage\n(B) surplus",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/321.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "176"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: What could happen that would increase the number of krill?\nChoices:\n(A) increase in phytoplankton\n(B) decrease in penguins\n(C) increase in fish\n(D) increase in birds",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/687.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "372"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: An image has the gray level PDF $p_r(r)$ shown in Fig. Q1a. One wants to do histogram specification SO that the processed image will have the specified $p_z(z)$ shown in Fig. Q1b. Can we use intensity mapping function $T: z=1-r$ to achieve the goal?\nChoices:\n(A) True\n(B) False",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/185.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "100"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: Is the sum of two lowest bar is greater then the largest bar?\nChoices:\n(A) Yes\n(B) No",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/110.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "57"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: As shown in the figure, AB is the diameter of \u2299O, and point C is on \u2299O. If \u2220A = 40.0, then the degree of \u2220B is ()\nChoices:\n(A) 80\u00b0\n(B) 60\u00b0\n(C) 50\u00b0\n(D) 40\u00b0",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/806.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "442"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: Is Light Green the low median?\nChoices:\n(A) yes\n(B) no",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/465.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "253"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: Are there fewer big motorbikes than rubber choppers?\nChoices:\n(A) Yes\n(B) No",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/356.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "195"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: \u5982\u56fe\uff0c\u5728\u83f1\u5f62ABCD\u4e2d\uff0cM\u3001N\u5206\u522b\u662fBC\u548cCD\u7684\u4e2d\u70b9\uff0cNP\u22a5AB\u4e8e\u70b9P\uff0c\u8fde\u63a5MP\uff0e\u82e5\u2220DAB\uff1d40\u00b0\uff0c\u5219\u2220MPB\uff1d\uff08\uff09\nChoices:\n(A) 125\u00b0\n(B) 120\u00b0\n(C) 115\u00b0\n(D) 110\u00b0",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/694.jpg",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "378"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: As shown in the figure, PA and PB are tangents of \u2299O, the tangent point of point A and B, AC is the diameter of \u2299O, given that \u2220P = 50.0, then the size of \u2220ACB is ()\nChoices:\n(A) 65\u00b0\n(B) 60\u00b0\n(C) 55\u00b0\n(D) 50\u00b0",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/748.jpg",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "407"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: From the above food web diagram, grasshopper population increase if\nChoices:\n(A) grouse decrease\n(B) chipmunk increases\n(C) grasses increases\n(D) elk increase",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/293.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "158"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: As shown in the figure, \u2220BAC = 110.0, if A and B are symmetrical with respect to the line MP, A and C are symmetrical with respect to the line NQ, then the size of \u2220PAQ is ()\nChoices:\n(A) 70\u00b0\n(B) 55\u00b0\n(C) 40\u00b0\n(D) 30\u00b0",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/255.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "131"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: If the pelicans in the community were eradicated, which population feel the most direct effect?\nChoices:\n(A) Plant\n(B) Phyto-plankton\n(C) Fish\n(D) Lizard",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/854.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "470"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: \u5982\u56fe\uff0c\u5728\u25b3ABC\u4e2d\uff0c\u70b9D\u3001E\u5206\u522b\u662f\u8fb9AB\u3001BC\u7684\u4e2d\u70b9\uff0c\u82e5\u25b3BDE\u7684\u5468\u957f\u662f6\uff0c\u5219\u25b3ABC\u7684\u5468\u957f\u662f\uff08\uff09\nChoices:\n(A) 8\n(B) 10\n(C) 12\n(D) 14",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/539.jpg",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "295"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: Is the orange larger than the car?\nChoices:\n(A) Yes\n(B) No",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/693.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "377"
+  },
+  {
+    "prompt": "<image> \nHint: Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end.\nDo not include any explanation or extra text.\nQuestion: Are there fewer green things in front of the blue metallic car than choppers right of the chopper?\nChoices:\n(A) Yes\n(B) No",
+    "image_path": "/home/anirban/kanksha1/mathvista/data/images/495.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "271"
+  }
+]

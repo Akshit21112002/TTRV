@@ -1,0 +1,30 @@
+[
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. accordion\nB. banjo\nC. cockroach\nD. custard apple",
+    "image_path": "/home/anirban/kanksha1/imagenet_a/n02787622/0.000744_couch _ couch_0.51193833.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "1"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. accordion\nB. banjo\nC. cockroach\nD. custard apple",
+    "image_path": "/home/anirban/kanksha1/imagenet_a/n02787622/0.000744_couch _ couch_0.51193833.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "2"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. accordion\nB. banjo\nC. cockroach\nD. custard apple",
+    "image_path": "/home/anirban/kanksha1/imagenet_a/n02787622/0.000744_couch _ couch_0.51193833.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "3"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. accordion\nB. banjo\nC. cockroach\nD. custard apple",
+    "image_path": "/home/anirban/kanksha1/imagenet_a/n02787622/0.000744_couch _ couch_0.51193833.jpg",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "4"
+  }
+]

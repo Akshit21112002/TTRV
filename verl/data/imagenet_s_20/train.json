@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. wool\nB. European garden spider\nC. fountain pen\nD. hamster",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n01773797/sketch_43.JPEG",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "0"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. hair dryer\nB. chameleon\nC. clownfish\nD. crash helmet",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n03127747/sketch_40.JPEG",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "1"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. lab coat\nB. cheetah\nC. ptarmigan\nD. canoe",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n03630383/sketch_42.JPEG",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "2"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. ring-necked snake\nB. ruler measuring stick\nC. paddle wheel\nD. electrical switch",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n01728920/sketch_48.JPEG",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "3"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. boathouse\nB. agaric\nC. Komondor\nD. Saharan horned viper",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n12998815/sketch_17.JPEG",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "4"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. tarantula\nB. pot pie\nC. sarong\nD. langur",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n01774750/sketch_9.JPEG",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "5"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. Ibizan Hound\nB. jeep\nC. Norwich Terrier\nD. marmoset",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n03594945/sketch_19.JPEG",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "6"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. cliff\nB. artichoke\nC. vine snake\nD. sulphur butterfly",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n07718747/sketch_7.JPEG",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "7"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. envelope\nB. three-toed sloth\nC. Sussex Spaniel\nD. Australian Kelpie",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n02105412/sketch_7.JPEG",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "8"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. medicine cabinet\nB. bassoon\nC. bullock cart\nD. Polaroid camera",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n03742115/sketch_50.JPEG",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "9"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. French horn\nB. kimono\nC. wall clock\nD. harvestman",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n04548280/sketch_27.JPEG",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "10"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. Curly-coated Retriever\nB. pot pie\nC. gorilla\nD. pretzel",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n07695742/sketch_17.JPEG",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "11"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. trash can\nB. car mirror\nC. boathouse\nD. cassette player",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n02965783/sketch_20.JPEG",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "12"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. monitor\nB. armadillo\nC. holster\nD. chain mail",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n03527444/sketch_5.JPEG",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": "13"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. spindle\nB. cornet\nC. dumbbell\nD. printer",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n03110669/sketch_36.JPEG",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "14"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. West Highland White Terrier\nB. CRT monitor\nC. gymnastic horizontal bar\nD. Siberian Husky",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n02098286/sketch_25.JPEG",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": "15"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. academic gown\nB. Treeing Walker Coonhound\nC. chimpanzee\nD. mosque",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n02089867/sketch_5.JPEG",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "16"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. corkscrew\nB. Mexican hairless dog (xoloitzcuintli)\nC. terrapin\nD. bucket",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n02113978/sketch_36.JPEG",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "17"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. Giant Schnauzer\nB. trolleybus\nC. fly\nD. Dobermann",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n02107142/sketch_3.JPEG",
+    "answer": "D",
+    "source": "gpqa_diamond",
+    "id": "18"
+  },
+  {
+    "prompt": "<image> \n Look at the given image and identify what it shows. Choose the correct answer from the options below and respond with only the corresponding option letter (A, B, C, or D). Do not include any explanation or extra text. \n Options:\nA. night snake\nB. shipwreck\nC. catamaran\nD. rotary dial telephone",
+    "image_path": "/home/anirban/kanksha1/imagenet_s/n04606251/sketch_0.JPEG",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": "19"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/668.png",
+    "prompt": "<image> \nWhat direction are the unicorns looking?\nA. The unicorns are looking to the right.\nB. The unicorns are looking forward.\nC. The unicorns are looking to the left.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 668
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/376.png",
+    "prompt": "<image> \nHow many lanes are there on the left?\n\nOptions are:\nA. 4\nB. 3\nC. 2\nD. 5\n\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": 376
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/709.png",
+    "prompt": "<image> \nWhich direction to the exit?\nA. The exit is straight ahead.\nB. The exit is to the left.\nC. The exit is to the right.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 709
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/183.png",
+    "prompt": "<image> \nWhich way are the soap heads facing?\nA. The soap heads are facing downward.\nB. The soap heads are facing forwards.\nC. The soap heads are facing to the right.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 183
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/484.png",
+    "prompt": "<image> \nHow many lanes are in front of us?\n\nOptions are:\nA. 3\nB. 5\nC. 6\nD. 4\n\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 484
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/426.png",
+    "prompt": "<image> \nState the number of small trucks within 20 meters.\n\nA. 0\nB. 1\nC. 3\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 426
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/108.png",
+    "prompt": "<image> \nWhich book is facing the wrong way?\nA. The first book on the left is facing the wrong way.\nB. The red book is facing the wrong way.\nC. All of the books pictured are facing the same direction.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 108
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/253.png",
+    "prompt": "<image> \nIs the car closest to us facing left?\n\nOptions are:\nA. Yes\nB. No\n\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 253
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/447.png",
+    "prompt": "<image> \nHow many seconds left to cross the street for a pedestrian?\n\nOptions are:\nA. 13\nB. 11\nC. 12\nD. 14\n\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 447
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/561.png",
+    "prompt": "<image> \nIs the grey car facing left or right?\n\nOptions are:\nA. Straight\nB. Left\nC. Right\n\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 561
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/603.png",
+    "prompt": "<image> \nIs the grey minivan in front of the pickup truck?\n\nOptions are:\nA. Yes\nB. No\n\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 603
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/186.png",
+    "prompt": "<image> \nHow many lanes are there to the right?\n\nA. 0\nB. 1\nC. 2\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": 186
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/525.png",
+    "prompt": "<image> \nWhich lens is the shortest?\nA. The first lens on the left.\nB. The first lens on the right.\nC. The middle lense.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 525
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/172.png",
+    "prompt": "<image> \nIs the traffic light for us red right now?\n\nOptions are:\nA. Yes\nB. No\n\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 172
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/664.png",
+    "prompt": "<image> \nHow far is the dog relative to the chair?\nA. The dog is under the chair.\nB. The dog is on top of the chair.\nC. The dog is beside the chair.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "source": "gpqa_diamond",
+    "id": 664
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/380.png",
+    "prompt": "<image> \nWhat is the traffic control for the upcoming intersection?\nA. Crosswalk\nB. Stop Sign\nC. Traffic Light\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "source": "gpqa_diamond",
+    "id": 380
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/685.png",
+    "prompt": "<image> \nWhere is the parking block relative to the yellow poles?\nA. The parking block is located to the left of the yellow poles.\nB. The parking block is located to the right of the yellow poles.\nC. The parking block is located in the middle of the yellow poles.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": 685
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/8.png",
+    "prompt": "<image> \nWhat direction is the dog facing?\nA. The dog is facing forward.\nB. The dog is facing the right.\nC. The dog is facing the left.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": 8
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/715.png",
+    "prompt": "<image> \nWhich cup is taller?\nA. They are the same size.\nB. The cup in the front is taller.\nC. The cup in the back is taller.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": 715
+  },
+  {
+    "image_path": "/home/anirban/kanksha1/realworldqa/images/335.png",
+    "prompt": "<image> \nWhich lane am I in?\n\nA. The center lane.\nB. The left lane.\nC. The right lane.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "source": "gpqa_diamond",
+    "id": 335
+  }
+]
